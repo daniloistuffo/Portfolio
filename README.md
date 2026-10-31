@@ -36,5 +36,4 @@ Tenho 16 anos, sou artista mirim e criador apaixonado por transformar ideias em 
 ---
 
 ### 📬 Onde me encontrar
-* **Portfólio / Linktree:** [Insira seu link do Carrd aqui]
-* **GitHub:** [Seu Usuário](https://github.com/daniloistuffo)
+* **GitHub:** [daniloistuffo](https://github.com/daniloistuffo)
