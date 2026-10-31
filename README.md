@@ -1,42 +1,40 @@
-# Olá, eu sou o Danilo! 🇧🇷🎨
+# Hello, I'm Danilo!
 
-Tenho 16 anos, sou artista mirim e criador apaixonado por transformar ideias em realidade. Meu foco é dar vida a conceitos criativos através de arte, design, jogos e experiências interativas que as pessoas possam aproveitar e brincar.
-
----
-
-### 🚀 Sobre Mim
-* **Idade:** 16 anos
-* **País:** Brasil 🇧🇷
-* **Perfil:** Artista mirim, designer e criador de jogos.
-* **Objetivo:** Transformar imaginação em arte, brinquedos, jogos e experiências reais.
-* **Áreas de interesse:** Arte digital, criação de personagens, desenvolvimento web e de jogos.
+I am a 16-year-old artist and creator passionate about turning ideas into reality. My focus is bringing creative concepts to life through art, design, web projects, and interactive experiences that people can enjoy and play with.
 
 ---
 
-### 🎨 Habilidades Artísticas & Criativas
-* **Ilustração & Design:** Criação de personagens, arte digital e identidade visual.
-* **Modelagem & Conceito:** Transformação de ideias visuais em conceitos para brinquedos e experiências 3D/interactive.
-* **Jogos & Interatividade:** Design visual para projetos em Roblox Studio, Godot e plataformas web.
+### About Me
+* **Age:** 16 years old
+* **Country:** Brazil
+* **Profile:** Artist, designer, and web/game creator.
+* **Goal:** Turn imagination into art, concepts, games, and real interactive experiences.
+* **Fields of Interest:** Digital art, character creation, and full-stack web development.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
-* **Arte & Design:** Ferramentas digitais de ilustração e edição.
-* **Linguagens & Web:** Python, HTML, CSS, JavaScript.
-* **Ambientes & Ferramentas:** Termux, Git, GitHub, Mobile Development.
-* **Engines de Jogos:** Roblox Studio, Godot Engine, WebGL.
+### Artistic & Creative Skills
+* **Illustration & Design:** Character creation, digital art, and visual identity design.
+* **Modeling & Concept Art:** Turning visual concepts into designs for toys and interactive experiences.
+* **Interactivity & Web:** Visual design for web applications and browser-based games.
 
 ---
 
-### 💻 Meus Projetos em Destaque
-* **Ilustração & Personagens:** Artes autorais e design de mascotes/personagens.
-* **PigeonSOCIAL / DuckSOCIAL:** Plataforma web própria com personalização visual, perfis e avatares.
-* **Projetos WebGL & Jogos:** Experiências interativas com foco em arte e jogabilidade.
+### Technologies & Tools
+* **Art & Design:** Digital illustration and editing tools.
+* **Languages & Web:** Python, HTML, CSS, JavaScript.
+* **Environments & Tools:** Termux, Git, GitHub, Mobile Development.
+* **Web Interactive:** WebGL.
 
 ---
 
-### 📬 Onde me encontrar
+### Featured Projects
+* **Illustration & Characters:** Original artwork and mascot/character designs.
+* **PigeonSOCIAL / DuckSOCIAL:** Custom web platform featuring full profile personalization, user avatars, and messaging.
+* **WebGL & Web Projects:** Interactive browser-based projects focused on visuals and gameplay.
+
+---
+
+### Where to Find Me
 * **GitHub:** [daniloistuffo](https://github.com/daniloistuffo)
-* **Tiktok:** [ledanilophonk](https://tiktok.com/@ledanilophonk
-)
-
+* **TikTok:** [ledanilophonk](https://tiktok.com/@ledanilophonk)
