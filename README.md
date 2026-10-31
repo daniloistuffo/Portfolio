@@ -1,13 +1,13 @@
 # Hello, I'm Danilo!
 
-I am a 16-year-old young artist and creator passionate about turning ideas into reality. My focus is bringing creative concepts to life through art, design, web projects, and interactive experiences that people can enjoy and play with.
+I am a 16-year-old artist and creator passionate about turning ideas into reality. My focus is bringing creative concepts to life through art, design, web projects, and interactive experiences that people can enjoy and play with.
 
 ---
 
 ### About Me
 * **Age:** 16 years old
 * **Country:** Brazil
-* **Profile:** Young artist, designer, and web/game creator.
+* **Profile:** Artist, designer, and web/game creator.
 * **Goal:** Turn imagination into art, concepts, games, and real interactive experiences.
 * **Fields of Interest:** Digital art, character creation, and full-stack web development.
 
