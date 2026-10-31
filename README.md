@@ -30,7 +30,7 @@ I am a 16-year-old artist and creator passionate about turning ideas into realit
 
 ### Featured Projects
 * **Illustration & Characters:** Original artwork and mascot/character designs.
-* **PigeonSOCIAL / DuckSOCIAL:** Custom web platform featuring full profile personalization, user avatars, and messaging.
+* **PigeonSOCIAL:** Custom web platform featuring full profile personalization, user avatars, and messaging.
 * **WebGL & Web Projects:** Interactive browser-based projects focused on visuals and gameplay.
 
 ---
