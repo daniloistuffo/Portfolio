@@ -37,4 +37,6 @@ Tenho 16 anos, sou artista mirim e criador apaixonado por transformar ideias em 
 
 ### 📬 Onde me encontrar
 * **GitHub:** [daniloistuffo](https://github.com/daniloistuffo)
-* **Tiktok:** [ledanilophonk](https://tiktok.com/ledanilophonk)
+* **Tiktok:** [ledanilophonk](https://tiktok.com/@ledanilophonk
+)
+
